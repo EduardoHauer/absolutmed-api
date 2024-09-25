@@ -8,7 +8,11 @@ target/
 .apt_generated
 .classpath
 .factorypath
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> 51369caba23ffbd867eb305099ec0df2c71a6e57
 .settings
 .springBeans
 .sts4-cache
